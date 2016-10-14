@@ -1,10 +1,9 @@
 title: Rachid Riad
 url: "https://rachine.github.io/"
-# baseurl: "/about"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-85678197-1
 
 sass:
     style: compressed

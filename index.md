@@ -38,8 +38,6 @@ Here is a blockquote
 
 ## References
 
-* Scollay Petry: Co-CEO of [MapJam](https://mapjam.com/scollay)
-* Jack Gonzalez: Co-CEO of [MapJam](https://mapjam.com/jack)
-* Bernard Lapeyre: Professor, Department of Applied Mathematics, Ponts Paristech
+* Available upon request
 
 I got all inspiration from a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) and my version [GitHub](https://github.com/Rachine/Rachine.github.io)
