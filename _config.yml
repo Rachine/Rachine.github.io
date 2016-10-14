@@ -1,6 +1,6 @@
 title: Rachid Riad
 url: "https://rachine.github.io/"
-baseurl: "/about"
+# baseurl: "/about"
 
 markdown: kramdown
 
