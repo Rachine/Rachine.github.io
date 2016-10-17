@@ -27,7 +27,7 @@ Here is some relevant experience.
 Year | Position | Topic
 -----|-------|--------
 2016 | Software Engineer @ [MapJam](https://mapjam.com) | Building GIS Stack and complex mapping applications
-2015 | Software Engineer intern @ [Vehicle Data Science](https://www.crunchbase.com/organization/vehicle-data-science#/entity) | Data visualization with D3.js
+2015 | Software Engineer intern @ [Vehicle Data Science](https://www.crunchbase.com/organization/vehicle-data-science#/entity) | Data visualization with D3.js and Leaflet.js
 2014 | Research intern @ [Cermics](http://cermics.enpc.fr/) | Study of financial Mathematics models
 
 <!-- ---
