@@ -8,5 +8,4 @@ is_contact: true
 ## Readings
 
 1. [Causality blog article from Michael Nielsen](http://www.michaelnielsen.org/ddi/if-correlation-doesnt-imply-causation-then-what-does/)
-2. [Twitter](https://twitter.com/RachidRiad)
-3. [Linkedin](https://www.linkedin.com/in/rachidriad)
+2. [Notes on Speech Production models](./speech_production_models)

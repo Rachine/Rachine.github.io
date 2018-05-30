@@ -28,10 +28,12 @@ Broadly, I'm interested in Speech and Language, Machine Learning, and Neuropsych
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**. -->
 
-Here are some relevant experiences.
+Here are some experiences.
 
 Year | Position | Topic
 -----|-------|--------
+2018 | Research assistant @ [SPOClab/ Vector Institute, University of Toronto](http://vectorinstitute.ai/) | Health assessment through speech technologies
+2018 | Research assistant @ [LSCP & NPI/ ENS](https://npi.dec.ens.fr/) | Health assessment through speech technologies
 2017 | Research intern @ [LSCP / ENS](http://www.lscp.net/index.php) | Machine learning meets language and cognitive development : How do babies learn their first language?
 2016 | Software Engineer @ [MapJam](https://mapjam.com) | Building GIS Stack and complex mapping applications
 2015 | Software Engineer intern @ [Vehicle Data Science](https://www.crunchbase.com/organization/vehicle-data-science#/entity) | Data visualization with D3.js and Leaflet.js
