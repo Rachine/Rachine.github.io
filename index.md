@@ -13,7 +13,7 @@ Hi! I graduated in Applied Mathematics and Computer Science from [Ponts Paristec
 
 ## Research
 
-Broadly, I'm interested in Speech and Language, Machine Learning, and Neuropsychology -- and trying to make links between all three.  My  PhD  project focus  on the  automatic  assessment  of  cognitive,  linguistic,  and  emotional  disorders, which  affects  the  Speech Production of Huntington Disease patients.
+Broadly, I'm interested in Speech and Language, Machine Learning, and Neuropsychology -- and trying to make links between all three.  My  PhD  project focuses  on the  automatic  assessment  of  cognitive,  linguistic,  and  emotional  disorders, which  affects  the  Speech Production of Huntington Disease patients.
 
 <!-- On a long-term view, I -->
 <!-- Broadly speaking, my research has two overarching goals: First, I view human cognition as a complex computational process, and seek a deeper understanding of the computational mechanisms underlying the human ability to learn and organize information. Second, I draw on these insights to develop methods to improve current artificial intelligence systems. -->
@@ -24,9 +24,8 @@ Broadly, I'm interested in Speech and Language, Machine Learning, and Neuropsych
 <!-- 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
 
-## Experience
+<!-- ## Experience
 
-<!-- This is a [link](http://google.com). Something *italics* and something **bold**. -->
 
 Here are some experiences.
 
@@ -43,10 +42,10 @@ Year | Position | Topic
 
 Here is a blockquote
 
-> To a great mind, nothing is little -->
+<!-- > To a great mind, nothing is little -->
 
-## References
+<!-- ## References
 
-* Available upon request
+* Available upon request -->
 
 I got all inspiration from a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) and my version [GitHub](https://github.com/Rachine/Rachine.github.io)
