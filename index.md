@@ -2,20 +2,21 @@
 layout: default
 ---
 
+
+
 ## About Me
 
 <img class="profile-picture" src="picture.jpg">
 
-Hi! I am an engineering student in Computer Science at [Ponts Paristech](http://www.enpc.fr/) and finished my Master program([MVA](http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2016-2017-161721.kjsp?RH=1242415112528)) in **Computer Vision and Machine Learning** at ENS Paris Saclay. I am now between the LSCP and NPI at ENS Paris under the supervision of [Pr. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/index.html) and [Pr. Anne-Catherine Bachoud-Lévi](http://www.imrb.inserm.fr/equipes/ac-bachoud-levi/).
+Hi! I graduated in Applied Mathematics and Computer Science from [Ponts Paristech](http://www.enpc.fr/) and obtained with Honors the Master program([MVA](http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2016-2017-161721.kjsp?RH=1242415112528)) in **Computer Vision and Machine Learning** at ENS Paris Saclay. I am now between the LSCP and NPI at ENS Paris under the supervision of [Pr. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/index.html) and [Pr. Anne-Catherine Bachoud-Lévi](http://www.imrb.inserm.fr/equipes/ac-bachoud-levi/).
 
 
 ## Research
 
-<!-- I am broadly interested in Machine Learning, Languages Technologies, Computer Vision, Signal/Image Processing, Mapping systems and Statistics. -->
+Broadly, I'm interested in Speech and Language, Machine Learning, and Neuropsychology -- and trying to make links between all three.  My  PhD  project focus  on the  automatic  assessment  of  cognitive,  linguistic,  and  emotional  disorders, which  affects  the  Speech Production of Huntington Disease patients.
 
-I like to see Computer Science, Mathematics and Machine Learning as a set of powerful tools providing new possibilities to Science, Healthcare and Education enabling us to shape the future and improve the lives of millions of people.
-
-My current area of research is **Health Behavior Informatics** via Speech analysis. The goal is to build technologies to support clinical practice during diagnosis and treatment of the Huntington disease.  
+<!-- On a long-term view, I -->
+<!-- Broadly speaking, my research has two overarching goals: First, I view human cognition as a complex computational process, and seek a deeper understanding of the computational mechanisms underlying the human ability to learn and organize information. Second, I draw on these insights to develop methods to improve current artificial intelligence systems. -->
 
 
 <!-- ## Publications
