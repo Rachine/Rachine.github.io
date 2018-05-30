@@ -1,10 +1,30 @@
 title: Rachid Riad
-url: "https://rachine.github.io/"
+url: "https://rachine.github.io"
 
 markdown: kramdown
-
+kramdown:
+   math_engine: mathjax
 tracking_id: UA-85678197-1
 
 sass:
     style: compressed
     sass_dir: _sass
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: _assets/bibliography
+  bibliography: references
+  bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}
+
+  replace_strings: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

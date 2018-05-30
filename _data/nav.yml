@@ -5,4 +5,7 @@
   link: "Rachid_Riad_CV.pdf"
 
 - name: "About"
-  link: "about"
+  link: ""
+
+- name: "Readings"
+  link: "readings"
