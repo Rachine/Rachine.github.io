@@ -13,7 +13,7 @@ Hi! I graduated in Applied Mathematics and Computer Science from [Ponts Paristec
 
 ## Research
 
-Broadly, I'm interested in Speech and Language, Machine Learning, and Neuropsychology -- and trying to make links between all three.  My  PhD  project focuses  on the  automatic  assessment  of  cognitive,  linguistic,  and  emotional  disorders, which  affects  the  Speech Production of Huntington Disease patients.
+Broadly, I'm interested in Speech and Language, Machine Learning, and Cognitive Neuropsychology -- and trying to make links between all three.  My  PhD  project focuses  on the  automatic  assessment  of  cognitive,  linguistic,  and  emotional  disorders, which  affect  the  Speech Production of Huntington Disease patients.
 
 <!-- On a long-term view, I -->
 <!-- Broadly speaking, my research has two overarching goals: First, I view human cognition as a complex computational process, and seek a deeper understanding of the computational mechanisms underlying the human ability to learn and organize information. Second, I draw on these insights to develop methods to improve current artificial intelligence systems. -->
