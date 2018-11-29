@@ -17,3 +17,4 @@ is_contact: true
 3. ABX evaluations [I](http://thomas.schatz.cogserver.net/wp-content/uploads/2014/10/Schatz2013.pdf) and [II](http://thomas.schatz.cogserver.net/wp-content/uploads/2014/10/Schatz2014.pdf)
 4. [RASTA](https://labrosa.ee.columbia.edu/~dpwe/papers/HermM94-rasta.pdf) features from Hermansky
 5. [CTC loss](https://www.cs.toronto.edu/~graves/icml_2006.pdf) to label unsegmented sequences
+6. [Weighted finite-state transducers in speech recognition](https://cs.nyu.edu/~mohri/pub/csl01.pdf)
