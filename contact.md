@@ -9,4 +9,5 @@ is_contact: true
 
 1. [Github](https://github.com/Rachine)
 2. [Twitter](https://twitter.com/RachidRiad)
-3. [Linkedin](https://www.linkedin.com/in/rachidriad)
+3. [Google Scholar](https://scholar.google.fr/citations?user=eIWHQnoAAAAJ&hl=fr)
+4. [Linkedin](https://www.linkedin.com/in/rachidriad)

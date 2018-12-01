@@ -18,3 +18,5 @@ is_contact: true
 4. [RASTA](https://labrosa.ee.columbia.edu/~dpwe/papers/HermM94-rasta.pdf) features from Hermansky
 5. [CTC loss](https://www.cs.toronto.edu/~graves/icml_2006.pdf) to label unsegmented sequences
 6. [Weighted finite-state transducers in speech recognition](https://cs.nyu.edu/~mohri/pub/csl01.pdf)
+7. A Robust algorithm for pitch tracking [RAPT]( Integrating person-centered and variable-centered
+analyses : Growth mixture modeling with latent trajectory classes) 
