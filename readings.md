@@ -18,4 +18,7 @@ is_contact: true
 4. [RASTA](https://labrosa.ee.columbia.edu/~dpwe/papers/HermM94-rasta.pdf) features from Hermansky
 5. [CTC loss](https://www.cs.toronto.edu/~graves/icml_2006.pdf) to label unsegmented sequences
 6. [Weighted finite-state transducers in speech recognition](https://cs.nyu.edu/~mohri/pub/csl01.pdf)
-7. A Robust algorithm for pitch tracking [RAPT](https://www.ee.columbia.edu/~dpwe/papers/Talkin95-rapt.pdf) 
+7. A Robust algorithm for pitch tracking [RAPT](https://www.ee.columbia.edu/~dpwe/papers/Talkin95-rapt.pdf)
+8. Temporal information in speech: acoustic, auditory and linguistic aspects [link](https://pdfs.semanticscholar.org/def5/7f2481ff6f776444d27b9073a1e84b9a2ce8.pdf)
+9. A RECURSIVE ALGORITHM FOR THE FORCED ALIGNMENT OFVERY LONG AUDIO SEGMENTS
+8. Temporal information in speech: acoustic, auditory and linguistic aspects [link](https://pdfs.semanticscholar.org/b838/93a5bfd16a15c04dcdd615357599b77a7c1a.pdf)
