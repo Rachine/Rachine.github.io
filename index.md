@@ -13,13 +13,24 @@ Hi! I graduated in Applied Mathematics and Computer Science from [Ponts Paristec
 
 ## Research
 
-Broadly, I'm interested in Speech and Language, Machine Learning, and Cognitive Neuropsychology -- and trying to make links between all three.  My  PhD  project focuses  on the  automatic  assessment  of  cognitive,  linguistic  and  emotional  disorders, which  affect  the  Speech Production of Huntington Disease patients.
+Broadly, I'm interested in Speech and Language, Machine Learning, and Cognitive and Clinical Neuropsychology -- and trying to make links between all three.  My  PhD  project focuses  on the  automatic  assessment  of  cognitive,  linguistic  and  emotional  disorders, which  affect  the  Speech Production of Huntington Disease patients.
 
 <!-- On a long-term view, I -->
 <!-- Broadly speaking, my research has two overarching goals: First, I view human cognition as a complex computational process, and seek a deeper understanding of the computational mechanisms underlying the human ability to learn and organize information. Second, I draw on these insights to develop methods to improve current artificial intelligence systems. -->
 
 
 ## Publications
+
+**Identification of primary and collateral tracks in stuttered speech**
+Rachid Riad, Anne-Catherine Bachoud-Lévi, Frank Rudzicz, Emmanuel Dupoux
+.  In *Proc. LREC* 2020, Marseille, France, May 2020.
+[paper](https://arxiv.org/abs/2003.01018)/code and data coming soon
+
+
+**Seshat: A tool for managing and verifying annotation campaigns of audio data**
+Hadrien Titeux\*, Rachid Riad\*, Xuan-Nga Cao, Nicolas Hamilakis, Kris Madden, Alejandrina Cristia, Anne-Catherine Bachoud-Lévi, Emmanuel Dupoux
+.  In *Proc. LREC* 2020, Marseille, France, May 2020.
+[paper](https://arxiv.org/abs/2003.01472)/[code](https://github.com/bootphon/seshat)/[documentation](https://seshat-annotation.readthedocs.io/en/latest/)
 
 **Sampling strategies in siamese networks for unsupervised speech representation learning.**
 Rachid Riad, Corentin Dancette, Julien Karadayi, Neil Zeghidour, Thomas Schatz, and Emmanuel Dupoux.  In *Proc. Interspeech* 2018, Hyderabad, India, September 2018.
