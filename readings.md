@@ -21,8 +21,8 @@ is_contact: true
 7. A Robust algorithm for pitch tracking [RAPT](https://www.ee.columbia.edu/~dpwe/papers/Talkin95-rapt.pdf)
 8. Temporal information in speech: acoustic, auditory and linguistic aspects [link](https://pdfs.semanticscholar.org/def5/7f2481ff6f776444d27b9073a1e84b9a2ce8.pdf)
 9. [A recursive algorithm for the forced alignment of very long audio segments](https://pdfs.semanticscholar.org/b838/93a5bfd16a15c04dcdd615357599b77a7c1a.pdf)
-8. Temporal information in speech: acoustic, auditory and linguistic aspects [link](https://pdfs.semanticscholar.org/def5/7f2481ff6f776444d27b9073a1e84b9a2ce8.pdf)
-9. Meaning of the Hilbert Transform obtained from the analytic signal [link](https://en.wikipedia.org/wiki/Analytic_signal) and [link](https://dsp.stackexchange.com/questions/25845/meaning-of-hilbert-transform)
+10. Temporal information in speech: acoustic, auditory and linguistic aspects [link](https://pdfs.semanticscholar.org/def5/7f2481ff6f776444d27b9073a1e84b9a2ce8.pdf)
+11. Meaning of the Hilbert Transform obtained from the analytic signal [link](https://en.wikipedia.org/wiki/Analytic_signal) and [link](https://dsp.stackexchange.com/questions/25845/meaning-of-hilbert-transform)
 
 # Classic Machine Listening Readings
 
