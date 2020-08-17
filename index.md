@@ -21,6 +21,11 @@ Broadly, I'm interested in Speech and Language, Machine Learning, and Cognitive 
 
 ## Publications
 
+**Vocal markers from sustained phonation in Huntington's Disease**
+Rachid Riad, Hadrien Titeux, Laurie Lemoine, Justine Montillot, Jennifer Hamet Bagnou,, Xuan-Nga Cao, Emmanuel Dupoux, Anne-Catherine Bachoud-Lévi
+.  In *Proc. Interspeech* 2020, Shangai, China, September 2020.
+[paper](https://arxiv.org/abs/2006.05365)/[code](https://github.com/bootphon/sustained-phonation-features)
+
 **Identification of primary and collateral tracks in stuttered speech**
 Rachid Riad, Anne-Catherine Bachoud-Lévi, Frank Rudzicz, Emmanuel Dupoux
 .  In *Proc. LREC* 2020, Marseille, France, May 2020.
