@@ -13,13 +13,23 @@ Hi! I graduated in Applied Mathematics and Computer Science from [Ponts Paristec
 
 ## Research
 
-Broadly, I'm interested in Speech and Language, Machine Learning, and Cognitive and Clinical Neuropsychology -- and trying to make links between all three.  My  PhD  project focuses  on the  automatic  assessment  of  cognitive,  linguistic  and  emotional  disorders, which  affect  the  Speech Production of Huntington Disease patients.
+I want to understand the trajectories through the lifespan of human and animal capabilities to understand the world and communicate with their peers. What are the neural and algorithmic computations that give rise to these amazing capabilities during infancy? How are these perceptual, cognitive and social skills affected by aging, neurodegenerative diseases or interventions?
 
-<!-- On a long-term view, I -->
-<!-- Broadly speaking, my research has two overarching goals: First, I view human cognition as a complex computational process, and seek a deeper understanding of the computational mechanisms underlying the human ability to learn and organize information. Second, I draw on these insights to develop methods to improve current artificial intelligence systems. -->
+Living systems are immersed in diverse, noisy environments and need to find the relevant signal to build adaptive strategies to survive. What is the sensory information that is useful to learn, navigate in and interact with the word? How to accurately measure the state of knowledge in ecological settings, outside the controlled conditions of the laboratory? Ultimately, I seek to build the algorithms that measure **and** match the performances of living systems in these naturalistic conditions. Can we build models of these living organisms? How can these findings help in education and medicine?
 
+I also try to construct better machine learning and signal processing algorithms: bridging the gap of performance between these algorithms and humans should lead to better artificial intelligence systems and yield better model to measure and model human behavior.
+
+My PhD project focuses on the **measure** of the motor, cognitive and emotional capabilities of individuals affected by Huntington's Disease. We build the algorithms to automatically measure the spoken language productions, as it invokes a combination of these skills and remain ecological to collect from a clinical point of view. 
 
 ## Publications
+
+**Learning spectro-temporal representations of complex sounds with parameterized neural networks.**
+Rachid Riad, Julien Karadayi, Anne-Catherine Bachoud-Lévi and Emmanuel Dupoux. The Journal of the Acoustical Society of America.
+[paper](https://github.com/Rachine/Rachine.github.io/data/jasa2021.pdf)/[code](https://github.com/bootphon/learnable-strf)/[slides](https://www.rocq.inria.fr/semdoc/Presentations/20210316_RachidRiad.pdf)
+
+**pygamma-agreement: Gamma γ measure for inter/intra-annotator agreement in Python.**
+Hadrien Titeux and Rachid Riad. Journal of Open Source Software.
+[paper](hhttps://joss.theoj.org/papers/10.21105/joss.02989)/[code](https://github.com/bootphon/pygamma-agreement)
 
 **Vocal markers from sustained phonation in Huntington's Disease**
 Rachid Riad, Hadrien Titeux, Laurie Lemoine, Justine Montillot, Jennifer Hamet Bagnou, Xuan-Nga Cao, Emmanuel Dupoux, Anne-Catherine Bachoud-Lévi
