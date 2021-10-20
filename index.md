@@ -17,7 +17,7 @@ I want to understand the trajectories through the lifespan of human and animal c
 
 Living systems are immersed in diverse, noisy environments and need to find the relevant signal to build adaptive strategies to survive. What is the sensory information that is useful to learn, navigate in and interact with the word? How to accurately measure the state of knowledge in ecological settings, outside the controlled conditions of the laboratory? Ultimately, I seek to build the algorithms that measure **and** match the performances of living systems in these naturalistic conditions. Can we build models of these living organisms? How can these findings help in education and medicine?
 
-I also try to construct better machine learning and signal processing algorithms: bridging the gap of performance between these algorithms and humans should lead to better artificial intelligence systems and yield better model to measure and model human behavior.
+I also try to construct better machine learning and signal processing algorithms that match the performance of humans in naturalistic conditions. In return, this should yield more reliable methods to measure ecological behaviors and better models of human cognition.
 
 My PhD project focuses on the **measure** of the motor, cognitive and emotional capabilities of individuals affected by Huntington's Disease. We build the algorithms to automatically measure the spoken language productions, as it invokes a combination of these skills and remain ecological to collect from a clinical point of view. 
 
