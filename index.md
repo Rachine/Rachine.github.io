@@ -24,11 +24,11 @@ My PhD project focuses on the **measure** of the motor, cognitive and emotional 
 ## Publications
 
 **Learning spectro-temporal representations of complex sounds with parameterized neural networks.**
-Rachid Riad, Julien Karadayi, Anne-Catherine Bachoud-Lévi and Emmanuel Dupoux. The Journal of the Acoustical Society of America.
+Rachid Riad, Julien Karadayi, Anne-Catherine Bachoud-Lévi and Emmanuel Dupoux. The Journal of the Acoustical Society of America, 2021.
 [paper](https://github.com/Rachine/Rachine.github.io/data/jasa2021.pdf)/[code](https://github.com/bootphon/learnable-strf)/[slides](https://www.rocq.inria.fr/semdoc/Presentations/20210316_RachidRiad.pdf)
 
 **pygamma-agreement: Gamma γ measure for inter/intra-annotator agreement in Python.**
-Hadrien Titeux and Rachid Riad. Journal of Open Source Software.
+Hadrien Titeux and Rachid Riad. Journal of Open Source Software, 2021.
 [paper](hhttps://joss.theoj.org/papers/10.21105/joss.02989)/[code](https://github.com/bootphon/pygamma-agreement)
 
 **Vocal markers from sustained phonation in Huntington's Disease**
@@ -39,7 +39,7 @@ Rachid Riad, Hadrien Titeux, Laurie Lemoine, Justine Montillot, Jennifer Hamet B
 **Identification of primary and collateral tracks in stuttered speech**
 Rachid Riad, Anne-Catherine Bachoud-Lévi, Frank Rudzicz, Emmanuel Dupoux
 .  In *Proc. LREC* 2020, Marseille, France, May 2020.
-[paper](https://arxiv.org/abs/2003.01018)/code and data coming soon
+[paper](https://arxiv.org/abs/2003.01018)
 
 
 **Seshat: A tool for managing and verifying annotation campaigns of audio data**
