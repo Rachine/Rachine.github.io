@@ -23,9 +23,14 @@ My PhD project focuses on the **measure** of the motor, cognitive and emotional 
 
 ## Publications
 
+**Learning Strides in Convolutional Neural Networks.**
+Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour. Spotlight at International Conference on Learning Representations, 2022.
+[paper](https://github.com/Rachine/Rachine.github.io/data/Papers/strides2022riadGoogle.pdf)
+
+
 **Learning spectro-temporal representations of complex sounds with parameterized neural networks.**
 Rachid Riad, Julien Karadayi, Anne-Catherine Bachoud-Lévi and Emmanuel Dupoux. The Journal of the Acoustical Society of America, 2021.
-[paper](https://github.com/Rachine/Rachine.github.io/data/jasa2021.pdf)/[code](https://github.com/bootphon/learnable-strf)/[slides](https://www.rocq.inria.fr/semdoc/Presentations/20210316_RachidRiad.pdf)
+[paper](https://github.com/Rachine/Rachine.github.io/data/Papers/jasa2021.pdf)/[code](https://github.com/bootphon/learnable-strf)/[slides](https://www.rocq.inria.fr/semdoc/Presentations/20210316_RachidRiad.pdf)
 
 **pygamma-agreement: Gamma γ measure for inter/intra-annotator agreement in Python.**
 Hadrien Titeux and Rachid Riad. Journal of Open Source Software, 2021.
