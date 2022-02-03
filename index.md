@@ -25,7 +25,7 @@ My PhD project focuses on the **measure** of the motor, cognitive and emotional 
 
 **Learning Strides in Convolutional Neural Networks.**
 Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour. Spotlight at International Conference on Learning Representations, 2022.
-[paper](https://github.com/Rachine/Rachine.github.io/data/Papers/strides2022riadGoogle.pdf)
+[paper](https://github.com/Rachine/Rachine.github.io/data/Papers/strides2022riadGoogle.pdf)[code](https://github.com/google-research/diffstride)
 
 
 **Learning spectro-temporal representations of complex sounds with parameterized neural networks.**
