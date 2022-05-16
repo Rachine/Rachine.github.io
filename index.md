@@ -23,6 +23,10 @@ My PhD project focuses on the **measure** of the motor, cognitive and emotional 
 
 ## Publications
 
+**Predicting clinical scores in Huntington’s disease: a lightweight speech test.**
+Rachid Riad, Marine Lunven, Hadrien Titeux, Xuan-Nga Cao, Jennifer Hamet Bagnou, Laurie Lemoine, Justine Montillot, Agnes Sliwinski, Katia Youssov, Laurent Cleret de Langavant, Emmanuel Dupoux & Anne-Catherine Bachoud-Lévi. Journal of Neurology, 2022.
+[paper](https://link.springer.com/article/10.1007/s00415-022-11148-1)
+
 **Learning Strides in Convolutional Neural Networks.**
 Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour. Oral and outstanding paper award at International Conference on Learning Representations, 2022.
 [paper](https://github.com/Rachine/Rachine.github.io/data/Papers/strides2022riadGoogle.pdf)/[code](https://github.com/google-research/diffstride)
