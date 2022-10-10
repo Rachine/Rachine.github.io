@@ -23,9 +23,19 @@ My PhD project focuses on the **measure** of the motor, cognitive and emotional 
 
 ## Publications
 
+**Emotion expression through spoken language in Huntington disease.**
+Charlotte Gallezot\*, Rachid Riad\*, Hadrien Titeux, Xuan-Nga Cao, Jennifer Hamet Bagnou, Laurie Lemoine, Justine Montillot, Agnes Sliwinski, Katia Youssov, Emmanuel Dupoux & Anne-Catherine Bachoud-Lévi. Cortex, 2022.
+[paper](https://www.sciencedirect.com/science/article/pii/S0010945222001976)
+
 **Predicting clinical scores in Huntington’s disease: a lightweight speech test.**
 Rachid Riad, Marine Lunven, Hadrien Titeux, Xuan-Nga Cao, Jennifer Hamet Bagnou, Laurie Lemoine, Justine Montillot, Agnes Sliwinski, Katia Youssov, Laurent Cleret de Langavant, Emmanuel Dupoux & Anne-Catherine Bachoud-Lévi. Journal of Neurology, 2022.
 [paper](https://link.springer.com/article/10.1007/s00415-022-11148-1)
+
+
+**A comparison study on patient-psychologist voice diarization**
+Rachid Riad\*, Hadrien Titeux\*, Laurie Lemoine, Justine Montillot, Jennifer Hamet Bagnou, Xuan-Nga Cao, Anne-Catherine Bachoud-Lévi, Emmanuel Dupoux
+.  In *SLPAT* 2022.
+[paper](https://aclanthology.org/2022.slpat-1.4/)
 
 **Learning Strides in Convolutional Neural Networks.**
 Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour. Oral and outstanding paper award at International Conference on Learning Representations, 2022.
@@ -69,6 +79,7 @@ Nils Holzenberger, Mingxing Du, Julien Karadayi, Rachid Riad, and Emmanuel Dupou
 
 Together with [Corentin Dancette](https://cdancette.fr/), we developed the third version of the Siamese network toolbox [ABnet3](https://github.com/bootphon/abnet3) for weakly/unsupervised representation learning of speech signals.
 
+See [here](https://github.com/bootphon/pygamma-agreement) for the $\gamma$ agreement in python.
 
 <!-- ## Experience
 
