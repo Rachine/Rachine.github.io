@@ -19,7 +19,7 @@ Living systems are immersed in diverse, noisy environments and need to find the 
 
 I also try to construct better machine learning and signal processing algorithms that match the performance of humans in naturalistic conditions. In return, this should yield more reliable methods to measure ecological behaviors and better models of human cognition.
 
-My PhD project focuses on the **measure** of the motor, cognitive and emotional capabilities of individuals affected by Huntington's Disease. We build the algorithms to automatically measure the spoken language productions, as it invokes a combination of these skills and remain ecological to collect from a clinical point of view. 
+My PhD project focuses on the **measure** of the motor, cognitive and emotional capabilities of individuals affected by Huntington's Disease. We build the algorithms to automatically measure the spoken language productions, as it invokes a combination of these skills and remain ecological to collect from a clinical point of view.
 
 ## Publications
 
@@ -79,7 +79,7 @@ Nils Holzenberger, Mingxing Du, Julien Karadayi, Rachid Riad, and Emmanuel Dupou
 
 Together with [Corentin Dancette](https://cdancette.fr/), we developed the third version of the Siamese network toolbox [ABnet3](https://github.com/bootphon/abnet3) for weakly/unsupervised representation learning of speech signals.
 
-See [here](https://github.com/bootphon/pygamma-agreement) for the $\gamma$ agreement in python.
+See [here](https://github.com/bootphon/pygamma-agreement) for the γ agreement in python.
 
 <!-- ## Experience
 
